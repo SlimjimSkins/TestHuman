@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xb96d242975a43149e5da82deed6d5a92bff495c7",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xb96d242975a43149e5da82deed6d5a92bff495c7",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Nikhil Test Human",
+  "SYMBOL": "NTH",
+  "MAX_SUPPLY": 10,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/testhuman",
+  "SHOW_BACKGROUND": true
+}
